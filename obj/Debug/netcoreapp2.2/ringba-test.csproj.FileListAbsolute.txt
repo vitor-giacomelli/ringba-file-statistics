@@ -1,0 +1,11 @@
+E:\Projetos\ringba-test\bin\Debug\netcoreapp2.2\ringba-test.deps.json
+E:\Projetos\ringba-test\bin\Debug\netcoreapp2.2\ringba-test.runtimeconfig.json
+E:\Projetos\ringba-test\bin\Debug\netcoreapp2.2\ringba-test.runtimeconfig.dev.json
+E:\Projetos\ringba-test\bin\Debug\netcoreapp2.2\ringba-test.dll
+E:\Projetos\ringba-test\bin\Debug\netcoreapp2.2\ringba-test.pdb
+E:\Projetos\ringba-test\obj\Debug\netcoreapp2.2\ringba-test.csprojAssemblyReference.cache
+E:\Projetos\ringba-test\obj\Debug\netcoreapp2.2\ringba-test.csproj.CoreCompileInputs.cache
+E:\Projetos\ringba-test\obj\Debug\netcoreapp2.2\ringba-test.AssemblyInfoInputs.cache
+E:\Projetos\ringba-test\obj\Debug\netcoreapp2.2\ringba-test.AssemblyInfo.cs
+E:\Projetos\ringba-test\obj\Debug\netcoreapp2.2\ringba-test.dll
+E:\Projetos\ringba-test\obj\Debug\netcoreapp2.2\ringba-test.pdb
