@@ -67,8 +67,9 @@ namespace ringba_test
 
         private static IOrderedEnumerable<KeyValuePair<string, int>> GetPrefixCount(string[] list)
         {
+            //Filter by words with 3 or more letters since 2 letter ones aren't considered to have a valid prefix
             return list
-               .Where(x => x.Length > 1)
+               .Where(x => x.Length > 2)
                .SelectMany(x => x.Substring(0, 2).Split())
                .GroupBy(x => x)
                .Select(x => new KeyValuePair<string, int>(x.Key, x.Count()))
